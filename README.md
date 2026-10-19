@@ -1,32 +1,37 @@
-# Hi, I'm an Electronic Engineering Student 👋
+# Hi, I'm Safayet Karim 👋
 
-🎓 Bachelor's Student in Electronic Engineering at HSHL  
-💻 Currently learning C++ and Object-Oriented Programming  
+🎓 Electronic Engineering Bachelor's Student at HSHL  
+💻 Learning C++ and Object-Oriented Programming  
 ⚡ Exploring Embedded Systems and Microcontrollers  
-🔌 Learning Arduino and practical electronics  
-🚀 Building projects and improving my engineering skills step by step
+🔌 Building projects with Arduino and practical electronics
 
-## 🛠️ Technologies I'm Learning
+## About Me
 
-- **Programming:** C, C++
-- **Embedded Systems:** Microcontrollers, GPIO, timers and interrupts
-- **Hardware:** Arduino, breadboards and electronic components
-- **Tools:** VS Code, Arduino IDE, Git and GitHub
+I'm an electronic engineering student developing my programming and hardware skills through university studies, hands-on experiments, and personal projects.
 
-## 📂 My Learning Journey
+I'm currently focusing on understanding the fundamentals and turning what I learn into practical projects.
 
-- 📘 C++ programming exercises and OOP concepts
-- 🚦 Arduino traffic light project
-- 💡 Basic sensor and LED experiments
-- 🔧 Embedded systems laboratory exercises
+## Technologies & Tools
 
-## 🎯 My Goals
+- **Languages:** C, C++
+- **Programming concepts:** Functions, classes, inheritance, pointers
+- **Hardware:** Arduino, microcontrollers, electronic components
+- **Tools:** Visual Studio Code, Arduino IDE, Git, GitHub
 
-- Strengthen my programming fundamentals
-- Build practical embedded systems projects
-- Learn more about electronics and microcontrollers
-- Collaborate on engineering projects and contribute to open source
+## Featured Areas
+
+- 📘 C++ programming practice
+- 🚦 Arduino and electronics projects
+- ⚙️ Embedded systems laboratory exercises
+- 🔧 Circuit experiments and technical documentation
+
+## Current Goals
+
+- Improve my C++ programming skills
+- Understand microcontrollers and embedded systems
+- Build and document practical electronics projects
+- Learn collaborative software development with Git and GitHub
 
 ---
 
-*Learning, experimenting and building one project at a time.*
+*Learning by building, experimenting, and improving every day.*
